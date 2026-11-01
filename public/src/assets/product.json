@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "BLUVERIE No. 01 Signature Black",
+    "description": "Elegant luxury watch with a black sunray dial.",
+    "price": 799,
+    "stock": 15,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/09/486%E7%89%B9%E7%BE%8E%E5%AE%A2%E6%88%B7%E4%BE%A7%E9%9D%A2.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "createdAt": "2026-10-28T09:00:00.000Z",
+    "updatedAt": "2026-10-28T09:00:00.000Z",
+    "Category": {
+      "id": 1,
+      "name": "Classic",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "updatedAt": "2026-10-28T08:00:00.000Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "BLUVERIE No. 02 Silver Classic",
+    "description": "Classic luxury watch with a silver dial.",
+    "price": 749,
+    "stock": 12,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/08/535%E4%BE%A7%E9%9D%A2-1024x1024.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "createdAt": "2026-10-28T10:00:00.000Z",
+    "updatedAt": "2026-10-28T10:00:00.000Z",
+    "Category": {
+      "id": 1,
+      "name": "Classic",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "updatedAt": "2026-10-28T08:00:00.000Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "BLUVERIE No. 03 Automatic Heritage",
+    "description": "Automatic mechanical watch with a timeless design.",
+    "price": 1499,
+    "stock": 8,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/01/1-2-1024x1024.jpg",
+    "categoryId": 2,
+    "authorId": 1,
+    "createdAt": "2026-10-28T11:00:00.000Z",
+    "updatedAt": "2026-10-28T11:00:00.000Z",
+    "Category": {
+      "id": 2,
+      "name": "Automatic",
+      "createdAt": "2026-10-28T08:05:00.000Z",
+      "updatedAt": "2026-10-28T08:05:00.000Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "BLUVERIE No. 04 Automatic Midnight",
+    "description": "Modern automatic watch with an elegant dark finish.",
+    "price": 1699,
+    "stock": 6,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2020/12/01-002148560747-6.jpg",
+    "categoryId": 2,
+    "authorId": 1,
+    "createdAt": "2026-10-28T12:00:00.000Z",
+    "updatedAt": "2026-10-28T12:00:00.000Z",
+    "Category": {
+      "id": 2,
+      "name": "Automatic",
+      "createdAt": "2026-10-28T08:05:00.000Z",
+      "updatedAt": "2026-10-28T08:05:00.000Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "BLUVERIE No. 05 Sport Chronograph",
+    "description": "Sport-inspired luxury watch with a bold chronograph design.",
+    "price": 999,
+    "stock": 10,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/08/581s%E7%89%B9%E7%BE%8E%E5%AE%A2%E6%88%B7%E6%AD%A4%E9%9D%A2-1024x1024.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "createdAt": "2026-10-28T13:00:00.000Z",
+    "updatedAt": "2026-10-28T13:00:00.000Z",
+    "Category": {
+      "id": 3,
+      "name": "Sport",
+      "createdAt": "2026-10-28T08:10:00.000Z",
+      "updatedAt": "2026-10-28T08:10:00.000Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "BLUVERIE No. 06 Luxury Gold",
+    "description": "Premium watch with a refined gold-tone appearance.",
+    "price": 1899,
+    "stock": 4,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2020/08/4-4-2048x2048.jpg",
+    "categoryId": 4,
+    "authorId": 1,
+    "createdAt": "2026-10-28T14:00:00.000Z",
+    "updatedAt": "2026-10-28T14:00:00.000Z",
+    "Category": {
+      "id": 4,
+      "name": "Luxury",
+      "createdAt": "2026-10-28T08:15:00.000Z",
+      "updatedAt": "2026-10-28T08:15:00.000Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "BLUVERIE No. 07 Heritage Limited",
+    "description": "Exclusive limited-edition watch with a heritage design.",
+    "price": 2499,
+    "stock": 2,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2020/12/1-2-1.jpg",
+    "categoryId": 5,
+    "authorId": 1,
+    "createdAt": "2026-10-28T15:00:00.000Z",
+    "updatedAt": "2026-10-28T15:00:00.000Z",
+    "Category": {
+      "id": 5,
+      "name": "Limited Edition",
+      "createdAt": "2026-10-28T08:20:00.000Z",
+      "updatedAt": "2026-10-28T08:20:00.000Z"
+    }
+  },
+  {
+    "id": 8,
+    "name": "BLUVERIE No. 08 Automatic Silver",
+    "description": "Contemporary automatic watch with a silver dial.",
+    "price": 1399,
+    "stock": 7,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/09/256%E7%89%B9%E7%BE%8E%E5%AE%A2%E6%88%B7%E4%BE%A7%E9%9D%A2.jpg",
+    "categoryId": 2,
+    "authorId": 1,
+    "createdAt": "2026-10-28T16:00:00.000Z",
+    "updatedAt": "2026-10-28T16:00:00.000Z",
+    "Category": {
+      "id": 2,
+      "name": "Automatic",
+      "createdAt": "2026-10-28T08:05:00.000Z",
+      "updatedAt": "2026-10-28T08:05:00.000Z"
+    }
+  },
+  {
+    "id": 9,
+    "name": "BLUVERIE No. 09 Classic White",
+    "description": "A refined timepiece with a clean white dial and polished stainless steel case.",
+    "price": 829,
+    "stock": 14,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2020/12/258-7-2003-2-1024x1024.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "createdAt": "2026-10-28T17:00:00.000Z",
+    "updatedAt": "2026-10-28T17:00:00.000Z",
+    "Category": {
+      "id": 1,
+      "name": "Classic",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "updatedAt": "2026-10-28T08:00:00.000Z"
+    }
+  },
+  {
+    "id": 10,
+    "name": "BLUVERIE No. 10 Midnight",
+    "description": "A sophisticated classic watch featuring a deep midnight.",
+    "price": 879,
+    "stock": 11,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2023/09/198%E7%89%B9%E7%BE%8E%E5%AE%A2%E6%88%B7%E4%BE%A7%E9%9D%A2-2.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "createdAt": "2026-10-28T18:00:00.000Z",
+    "updatedAt": "2026-10-28T18:00:00.000Z",
+    "Category": {
+      "id": 1,
+      "name": "Classic",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "updatedAt": "2026-10-28T08:00:00.000Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "BLUVERIE No. 11 Minimalist Silver",
+    "description": "A minimalist timepiece designed for modern everyday elegance.",
+    "price": 899,
+    "stock": 13,
+    "imageUrl": "https://bugolini.b-cdn.net/wp-content/uploads/2020/08/PHOTO-2021-06-24-11-28-16-1.jpg",
+    "categoryId": 4,
+    "authorId": 1,
+    "createdAt": "2026-10-28T19:00:00.000Z",
+    "updatedAt": "2026-10-28T19:00:00.000Z",
+    "Category": {
+      "id": 1,
+      "name": "Luxury",
+      "createdAt": "2026-10-28T08:00:00.000Z",
+      "updatedAt": "2026-10-28T08:00:00.000Z"
+    }
+  }
+]
